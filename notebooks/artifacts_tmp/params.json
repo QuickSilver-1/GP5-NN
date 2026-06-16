@@ -1,0 +1,13 @@
+{
+  "n_blocks": 3,
+  "d_hidden": 256,
+  "dropout": 0.15,
+  "emb_max": 32,
+  "num_emb": 16,
+  "num_freq": 24,
+  "activation": "relu",
+  "lr": 0.001,
+  "batch_size": 256,
+  "arch": "resnet",
+  "cat_mode": "embed"
+}
