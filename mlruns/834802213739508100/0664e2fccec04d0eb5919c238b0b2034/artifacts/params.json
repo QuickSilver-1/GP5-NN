@@ -1,0 +1,11 @@
+{
+  "lr": 0.001,
+  "hidden": [
+    256,
+    256
+  ],
+  "batch_size": 256,
+  "activation": "leaky_relu",
+  "arch": "simple",
+  "cat_mode": "onehot"
+}

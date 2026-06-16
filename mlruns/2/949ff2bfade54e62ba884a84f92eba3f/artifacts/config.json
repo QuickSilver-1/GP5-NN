@@ -1,0 +1,23 @@
+{
+  "name": "1_textcnn",
+  "arch": "cnn",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "max_epochs": 30,
+  "patience": 5,
+  "warmup_frac": 0.1,
+  "dropout": 0.5,
+  "select_metric": "macro_f1",
+  "class_weights": true,
+  "extra": {
+    "d_emb": 128,
+    "n_filters": 128,
+    "kernel_sizes": [
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

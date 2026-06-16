@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/834802213739508100/588c51e4a6d64b3aab6de78b6458746d/artifacts
+end_time: 1781599944822
+entry_point_name: ''
+experiment_id: '834802213739508100'
+lifecycle_stage: active
+run_id: 588c51e4a6d64b3aab6de78b6458746d
+run_name: resnet_04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781599944667
+status: 3
+tags: []
+user_id: root

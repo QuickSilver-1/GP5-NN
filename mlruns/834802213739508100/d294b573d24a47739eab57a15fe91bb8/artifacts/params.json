@@ -1,0 +1,15 @@
+{
+  "norm": "layer",
+  "lr": 0.001,
+  "hidden": [
+    512,
+    256,
+    128,
+    64
+  ],
+  "dropout": 0.2,
+  "cat_mode": "onehot",
+  "batch_size": 512,
+  "activation": "relu",
+  "arch": "reg"
+}
