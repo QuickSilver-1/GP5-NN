@@ -1,0 +1,12 @@
+{
+  "lr": 0.0005,
+  "hidden": [
+    256,
+    1024,
+    512
+  ],
+  "batch_size": 256,
+  "activation": "gelu",
+  "arch": "simple",
+  "cat_mode": "onehot"
+}

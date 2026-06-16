@@ -1,0 +1,9 @@
+artifact_location: file:///content/mlruns/834802213739508100
+creation_time: 1781599101421
+effective_trace_archival_retention: null
+experiment_id: '834802213739508100'
+last_update_time: 1781599101421
+lifecycle_stage: active
+name: moscow-flats-price-dl
+trace_location: null
+workspace: default

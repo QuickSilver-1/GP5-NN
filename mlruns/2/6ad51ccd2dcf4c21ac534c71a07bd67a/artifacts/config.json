@@ -1,0 +1,14 @@
+{
+  "name": "3_rubert_frozen_mlp",
+  "arch": "bert_frozen",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "max_epochs": 40,
+  "patience": 6,
+  "warmup_frac": 0.1,
+  "dropout": 0.3,
+  "select_metric": "macro_f1",
+  "class_weights": true,
+  "extra": null
+}

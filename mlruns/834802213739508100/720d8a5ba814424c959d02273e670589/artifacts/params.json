@@ -1,0 +1,14 @@
+{
+  "norm": "layer",
+  "lr": 0.0005,
+  "hidden": [
+    512,
+    256,
+    128
+  ],
+  "dropout": 0.4,
+  "cat_mode": "embed",
+  "batch_size": 512,
+  "activation": "relu",
+  "arch": "reg"
+}

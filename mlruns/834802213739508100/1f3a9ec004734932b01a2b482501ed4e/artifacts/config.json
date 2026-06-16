@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "max_epochs": 140,
+  "patience": 30,
+  "loss": "mse",
+  "weight_decay": 0.0001,
+  "grad_clip": 5.0
+}

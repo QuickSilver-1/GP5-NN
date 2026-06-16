@@ -1,0 +1,12 @@
+{
+  "lr": 0.002,
+  "hidden": [
+    256,
+    1024,
+    512
+  ],
+  "batch_size": 512,
+  "activation": "relu",
+  "arch": "simple",
+  "cat_mode": "onehot"
+}

@@ -1,0 +1,13 @@
+{
+  "norm": "batch",
+  "lr": 0.001,
+  "hidden": [
+    256,
+    128
+  ],
+  "dropout": 0.4,
+  "cat_mode": "onehot",
+  "batch_size": 256,
+  "activation": "gelu",
+  "arch": "reg"
+}

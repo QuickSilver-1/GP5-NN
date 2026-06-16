@@ -1,0 +1,15 @@
+{
+  "norm": "batch",
+  "lr": 0.0005,
+  "hidden": [
+    512,
+    256,
+    128,
+    64
+  ],
+  "dropout": 0.4,
+  "cat_mode": "embed",
+  "batch_size": 512,
+  "activation": "gelu",
+  "arch": "reg"
+}
